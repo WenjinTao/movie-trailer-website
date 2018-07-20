@@ -20,7 +20,7 @@ This is a python program to generate a webpage showing trailers of the latest mo
 
 ## Usage
 
-If you just want to check the web page, simply go the directory containing the `HTML` file of `index.html` and open it with your browser. Then, enjoy it.
+If you just want to check the web page, simply go the directory containing the `HTML` file of `index.html` and open it with your browser, or click on [me](http://taowenjin.com/movie-trailer-website/). Then, enjoy it.
 
 Or, if you want to rebuild the whole page, you can open your terminal and run the following commands:
 
