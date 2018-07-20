@@ -20,7 +20,7 @@ This is a python program to generate a webpage showing trailers of the latest mo
 
 ## Usage
 
-If you just want to check the web page, simply go the directory containing the `HTML` file of `fresh_tomatoes.html` and open it with your browser. Then, enjoy it.
+If you just want to check the web page, simply go the directory containing the `HTML` file of `index.html` and open it with your browser. Then, enjoy it.
 
 Or, if you want to rebuild the whole page, you can open your terminal and run the following commands:
 
@@ -28,7 +28,7 @@ Or, if you want to rebuild the whole page, you can open your terminal and run th
 $ python entertainment_center.py
 ```
 
-which will generate a web page named `fresh_tomatoes.html` and then open it using you browser.
+which will generate a web page named `index.html` and then open it using you browser.
 
 ## Contribute
 
